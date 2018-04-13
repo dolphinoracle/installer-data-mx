@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Thu, 12 Apr 2018 20:03:35 -0400
+Source: installer-data-mx
+Binary: installer-data-mx
+Architecture: source all
+Version: 18.4.3
+Distribution: mx
+Urgency: medium
+Maintainer: Steven Pusser (Stevo) <maintainer@mepiscommunity.org>
+Changed-By: dolphinoracle <dolphin@mx>
+Description:
+ installer-data-mx - Branding and installer.conf data for mx/antiX installer
+Changes:
+ installer-data-mx (18.4.3) mx; urgency=medium
+ .
+   * added POPULATE_MEDIA_MOUNTPOINTS variable
+Checksums-Sha1:
+ 21f7ef8ec7261a555095b92914a9c282802e183c 650 installer-data-mx_18.4.3.dsc
+ 9c940a779563595adc0898c3d38675ae337a44de 385248 installer-data-mx_18.4.3.tar.xz
+ 8a408f7965aaf3ff996259d84f5a3ba3ad91f095 186898 installer-data-mx_18.4.3_all.deb
+ 2f5f82ed5689134e3d9d9b75ef030b9dccb4c386 4982 installer-data-mx_18.4.3_amd64.buildinfo
+Checksums-Sha256:
+ 2f2abcf897e89b41154ae6fd695dc2e32913deacc401381afcab2e28f99a9266 650 installer-data-mx_18.4.3.dsc
+ d831af0f62c39b3a098c9d1605d7227f35c92ece9e9835870b309502c93abfae 385248 installer-data-mx_18.4.3.tar.xz
+ 9bea903065509c098d6db5a25344828cd3b93952c40251909b204a8f672cde71 186898 installer-data-mx_18.4.3_all.deb
+ 37846d3f5a6559629a29475e4a88b8b3a5e5fb579bc4ae89f0d6ea12e4e4a0f0 4982 installer-data-mx_18.4.3_amd64.buildinfo
+Files:
+ aa4ab03ffb288c68ac004d52df27667e 650 admin optional installer-data-mx_18.4.3.dsc
+ 42edd7f0a9a39955a7326d9210146465 385248 admin optional installer-data-mx_18.4.3.tar.xz
+ cf4ce966bb8d14d74b76d2be73745ecb 186898 admin optional installer-data-mx_18.4.3_all.deb
+ 143fd6369197e3eb47e58311ab1e6a50 4982 admin optional installer-data-mx_18.4.3_amd64.buildinfo
